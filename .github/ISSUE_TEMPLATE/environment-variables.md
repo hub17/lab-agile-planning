@@ -8,13 +8,13 @@ assignees: ''
 
 ---
 
-**As a** [Software Engineer]
-**I need** [A list of all container images]
-**So that** [I can populate environment variable for each container]
+**As a** [ Software Engineer ]
+**I need** [ A list of all container images ]
+**So that** [ I can populate environment variable for each container ]
 
-###Details and Assumptions:
-  * [ We have a table that contains names for all images]
-  *[ Environment variable can be retrieved from a DockerFile , A Config File , Docker hub main page and also using docker inspects etc ... ]
+### Details and Assumptions:
+  * [  We have a table that contains names for all images ] 
+  *[  Environment variable can be retrieved from a DockerFile , A Config File , Docker hub main page and also using docker inspects etc ...  ]
 
 ### Acceptance Criteria :
      Environment variable are Key-Value pairs.
